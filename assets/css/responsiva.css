@@ -8,6 +8,9 @@
     .segundobloco{
         display: block;
      }
+    header img{
+        width: 100%;
+    }
 }
 
 @media (max-width: 460px){
@@ -16,5 +19,8 @@
     }
     .logo{
         text-align: center;
+    }
+    header img{
+        width: 100%;
     }
 }
