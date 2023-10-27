@@ -1,0 +1,20 @@
+@media (max-width: 1040px){
+    .fundo{
+        display: none;
+    }
+    .primeirobloco{
+       display: block;
+    }
+    .segundobloco{
+        display: block;
+     }
+}
+
+@media (max-width: 460px){
+    .menu{
+        display: none;
+    }
+    .logo{
+        text-align: center;
+    }
+}
